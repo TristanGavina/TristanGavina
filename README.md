@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TristanGavina
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Programming and Arts
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Programming
 - 📫 You can reach me through emailing
+    - tristanjaspergavina17@gmail.com
 
 <!---
 TristanGavina/TristanGavina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
